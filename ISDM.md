@@ -1,4 +1,6 @@
 # Problem definition
+## Statement
+
 ## Objectives
 - provide assistance to RMs in serving their end-customers (or potential customers) 
 - match RMs and end-customers according to RMs skills (performance and product knowledge) and customers profiles. 
@@ -41,7 +43,7 @@
 > What do they see in their immediate environment?
 > What do they see others saying and doing?
 > What are they watching and reading?
-- They see a way that can help them to improve their system and number of sales by using a profiling tool
+- The business analysts see a way that can improve their system effectiveness and number of sales by using a profiling tool
 - The customers can see a change in how their relational managers deal with their customers.
 - The relational managers see a better environment that will help them reduce stress via distribution routine and call routing, this will help the team to work more efficiently.
 
@@ -71,16 +73,21 @@
 - Cusomters calling in want to resolve their issue prompty, have detailed product information explained clearly by a knowledgable RM and purchased correctly handled when purchasing over the phone.
 - 
 
+# Assumptions
+- The company has more than one RM’s that can be paired with a customer looking for a specific holiday package. This means inbound calls can be linked to two or more RM’s and the customer can easily be transferred between different RMs.
+- Profiler tool uses work database based on the amount of cases closed on a specific holiday package and company database about personal information such as age, culture and sex.
+- Customer will always have the choice to speak to a human operator when the Automatic Call Distributor fails to appropriately select an RM
+- The system automatically creates a profile for new customers as needed and the disgnated RM can view or edit them as neccesary
 
-# Ideate
-1. Reflection and POV statements
-- 
-- 
+# Reflections
+## Peter
+## Long
+Design thinking is an appropriate process for most projects that follow the agile framework and provide flexible guidelines that help direct the next step in the development of the system. While an effective framework when applied well, I have found that there is potential for duplicate work to occur, not just from different team members, but from the same individuals during the first few stages. Specifically in various methods of empathising, the empathy map had some overlap with POV statements. Otherwise, as long as we keep the current project velocity ongoing, we should be able to finsih the project report on time.
+## Jake
 
 2. Prioritised Backlog
 - 
 - 
-
 
 
 # Sprints 
