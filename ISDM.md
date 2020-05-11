@@ -41,10 +41,15 @@
 > What do they see in their immediate environment?
 > What do they see others saying and doing?
 > What are they watching and reading?
+- They see a way that can help them to improve their system and number of sales by using a profiling tool
+- The customers can see a change in how their relational managers deal with their customers.
+- The relational managers see a better environment that will help them reduce stress via distribution routine and call routing, this will help the team to work more efficiently.
 
 4. What do they SAY?
 > What have we heard them say?
 > What can we imagine them saying?
+- They have an automated device that tells them options on why they are calling, helping them to redirect a call
+- Customers are spoken to by suitable Relationship managers that will give them the best sales pitch, makes it more 
 
 5. What do they DO?
 > What do they do today?
