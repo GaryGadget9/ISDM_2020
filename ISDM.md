@@ -72,10 +72,15 @@
 - 
 
 
-# Backlog
-- Objectives
-- Stakeholders
-- Problem definition 
-- Assumptions in System analysis
+# Ideate
+1. Reflection and POV statements
+- 
+- 
+
+2. Prioritised Backlog
+- 
+- 
+
+
 
 # Sprints 
