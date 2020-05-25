@@ -112,7 +112,7 @@ U006 | Customer | be able to remove myself from the targeted potential customer 
 ## Use Case Diagram
 ## Activity Diagram
 ## Class Diagram
-![Inbound Call Class Diagram](ISDM_2020/Inbound Call Activity Diagram.png)
+![Inbound Call Class Diagram](/ISDM_2020/Inbound Call Activity Diagram.png)
 
 ## Collaborative Diagram
 
