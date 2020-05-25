@@ -95,7 +95,7 @@
 # Reflections
 ## Peter
 ## Long
-Design thinking is an appropriate process for most projects that follow the agile framework and provide flexible guidelines that help direct the next step in the development of the system. While an effective framework when applied well, I have found that there is potential for duplicate work to occur, not just from different team members, but from the same individuals during the first few stages. Specifically in various methods of empathising, the empathy map had some overlap with POV statements. Otherwise, as long as we keep the current project velocity ongoing, we should be able to finsih the project report on time.
+Design thinking is an appropriate process for most projects that follow the agile framework and provide flexible guidelines that help direct the next step in the development of the system. While an effective framework when applied well, I have found that there is potential for duplicate work to occur, not just from different team members, but from the same individuals during the first few stages. Specifically in various methods of empathising, the empathy map had some overlap with POV statements. Otherwise, as long as we keep the current project velocity ongoing, we should be able to finish the project report on time.
 ## Jake
 
 # Prioritised Backlog
