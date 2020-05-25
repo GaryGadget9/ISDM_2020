@@ -52,25 +52,38 @@
 > What can we imagine them saying?
 - They have an automated device that tells them options on why they are calling, helping them to redirect a call
 - Customers are spoken to by suitable Relationship managers that will give them the best sales pitch, makes it more 
+- Inbound customers may have to give a reason for their call if there is long wait times
 
 5. What do they DO?
 > What do they do today?
 > What behavior have we observed?
 > What can we imagine them doing?
+- Inbound customers will call the company and navigate the automatic call routing software
+- Outbound customers will be called my an RM and be given a sales pitch
+- RMs will either await inbound calls or work on outbound calls with a script
+- Inbound customers with long wait times will give their reason for a call.
+- Inbound customers with long wait times may hang up.
+- Outbound customers may get annoyed if they are called multiple times
+- Inbound customers who have a high probablity of buying and are matched with a skilled RM are highly likely to buy a travel package.
 
 6. What do they HEAR?
 > What are they hearing others say?
 > What are they hearing from friends?
 > What are they hearing from colleagues?
 > What are they hearing second-hand?
+- Customers hear the automated phonecall system which speaks to them in a pleasant tone at an even speed.
+- Customers will also hear the waiting music which is calming.
+- Customers will hear RMs explain their best options and deals for them.
+- Customers will hear from other end users reviews how easy it was to deal with the phone system and the RMs were.
+- RMs will hear from their colleagues how the new information system makes their job easier and helps them get sales.
 
 7. What do they THINK and FEEL?
 > PAINS | What are their fears, frustrations, and anxieties?
 > GAINS | What are their wants, needs, hopes and dreams?
 > What other thoughts and feelings might motivate their behavior?
-- Cusomters who suffer long wait time will feel annoyed, unappreciated by the organisation and RM.
+- Customers who suffer long wait time will feel annoyed, unappreciated by the organisation and RM.
 - Potential customers targeted by the system repeatedly will feel annoyed and view the company as untrustworthy if they have advised the RM to not call again.
-- Cusomters calling in want to resolve their issue prompty, have detailed product information explained clearly by a knowledgable RM and purchased correctly handled when purchasing over the phone.
+- Customers calling in want to resolve their issue prompty, have detailed product information explained clearly by a knowledgable RM and purchased correctly handled when purchasing over the phone.
 - 
 
 # Assumptions
