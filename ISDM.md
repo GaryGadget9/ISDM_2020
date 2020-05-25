@@ -100,13 +100,13 @@ Design thinking is an appropriate process for most projects that follow the agil
 
 # Prioritised Backlog
 User Story ID | As a/an | I want to | So that | Pritority (1-10) | Function/Non-functional
-------------- | ------- | --------- | ------- | --------- |
-U001 | RM | be matched with a customer whose profile matches my skills | I can best help them, answer their enquiries | 10 | Functional
-U002 | Customer | be matched with an RM has the skills to best help me | I don't have to be transferred and can get help immediately | 10 | FUnctional
-U003 | RM | see my individualised target customer list | connect with those potential customers for selling the company's products | 8 | FUnctional
-U004 | Customer | select from a list of options on what I'm trying to achieve and be correctly routed | I don't need to wait so long to get to general support and wait again after being routed | 8 | Functional
-U005 | RM | have my RM profile be automatically adjusted based on my customers' feedback | my profile is always up-to-date and I can best serve my selected customers | 7 | Non-functional
-U006 | Customer | be able to remove myself from the targeted potential customer list | I am not repeatedly contacted for the same reason | 6 | Functional
+------------- | ------- | --------- | ------- | ---------------- | --------------------- |
+U001 | RM | be matched with a customer whose profile matches my skills | I can best help them, answer their enquiries | 10 | Functional |
+U002 | Customer | be matched with an RM has the skills to best help me | I don't have to be transferred and can get help immediately | 10 | Functional |
+U003 | RM | see my individualised target customer list | connect with those potential customers for selling the company's products | 8 | Functional |
+U004 | Customer | select from a list of options on what I'm trying to achieve and be correctly routed | I don't need to wait so long to get to general support and wait again after being routed | 8 | Functional |
+U005 | RM | have my RM profile be automatically adjusted based on my customers' feedback | my profile is always up-to-date and I can best serve my selected customers | 7 | Non-functional |
+U006 | Customer | be able to remove myself from the targeted potential customer list | I am not repeatedly contacted for the same reason | 6 | Functional |
 
 # Prototyping and Models
 ## Use Case Diagram
