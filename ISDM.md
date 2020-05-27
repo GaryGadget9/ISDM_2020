@@ -98,7 +98,7 @@ I think design thinking is good to look at other stakeholders’ POV. It has hel
 ## Long
 Design thinking is an appropriate process for most projects that follow the agile framework and provide flexible guidelines that help direct the next step in the development of the system. While an effective framework when applied well, I have found that there is potential for duplicate work to occur, not just from different team members, but from the same individuals during the first few stages. Specifically in various methods of empathising, the empathy map had some overlap with POV statements. Otherwise, as long as we keep the current project velocity ongoing, we should be able to finish the project report on time.
 ## Jake
-
+As a student majoring in Interaction Design, I have some familiarity with the design thinking process and its aplication to various areas. At its core, design thinking is about ensuring that throughout the process of creating an information system, the end users and their needs are considered. This has become particularly important throughout the process of this assessment, wherein there are a large amount of stakeholders for us to consider. The needs of relationship managers, customers, and the company itself are all equally important, and through using design thinking, we have been able to keep our approach human-centred. Although at times it feels as though producing such a large number of figures can become redundant, it is important as it gives system developers a lot of information to use.
 # Prioritised Backlog
 User Story ID | As a/an | I want to | So that | Pritority (1-10) | Function/Non-functional
 ------------- | ------- | --------- | ------- | ---------------- | --------------------- |
@@ -112,7 +112,8 @@ U006 | Customer | be able to remove myself from the targeted potential customer 
 # Prototyping and Models
 ## Use Case Diagram
 ## Activity Diagram
-![Inbound Call Class Diagram](https://raw.githubusercontent.com/GaryGadget9/ISDM_2020/master/Inbound%20Call%20Activity%20Diagram.png)
+![Inbound Call Activity Diagram](https://raw.githubusercontent.com/GaryGadget9/ISDM_2020/master/Inbound%20Call%20Activity%20Diagram.png)
+![Outbound Call Activity Diagram](https://raw.githubusercontent.com/GaryGadget9/ISDM_2020/master/Outbound%20Call%20Activity%20Diagram.png)
 ## Class Diagram
 
 
