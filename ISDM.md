@@ -94,6 +94,7 @@
 
 # Reflections
 ## Peter
+I think design thinking is good to look at other stakeholders’ POV. It has helped us to see what the next design steps we should be taking for the specifications. As for Github, I had trouble with GitHub as it was my first time using it. I felt like it wasn’t the best for making a report, but with the help of other I was able to do things. I believe the empathy map really helped with evaluating what needs to improved for the design specifications.
 ## Long
 Design thinking is an appropriate process for most projects that follow the agile framework and provide flexible guidelines that help direct the next step in the development of the system. While an effective framework when applied well, I have found that there is potential for duplicate work to occur, not just from different team members, but from the same individuals during the first few stages. Specifically in various methods of empathising, the empathy map had some overlap with POV statements. Otherwise, as long as we keep the current project velocity ongoing, we should be able to finish the project report on time.
 ## Jake
