@@ -102,21 +102,47 @@ As a student majoring in Interaction Design, I have some familiarity with the de
 ## Linh
 Design thinking is an essential process for us to learning how to brainstorm and practice it in a right way to discovery solutions for problems which we have to deal with. Furthermore, it train us on generating and developing creative ideas independently while every failure lead us to different ways of thinking and others paths will be explore.In addition, we got more and more confidence in expressing our ideas to others. In addition, Empathy helps us understand how our users are feeling so that we can list and prioritize  exactly what they needs, which reduces amount of time on developing products to fit with customers requirements. 
 # Prioritised Backlog
-User Story ID | As a/an | I want to | So that | Pritority (1-10) | Function/Non-functional
-------------- | ------- | --------- | ------- | ---------------- | --------------------- |
-U001 | RM | be matched with a customer whose profile matches my skills | I can best help them, answer their enquiries | 10 | Functional |
-U002 | Customer | be matched with an RM has the skills to best help me | I don't have to be transferred and can get help immediately | 10 | Functional |
-U003 | RM | see my individualised target customer list | connect with those potential customers for selling the company's products | 8 | Functional |
-U004 | Customer | select from a list of options on what I'm trying to achieve and be correctly routed | I don't need to wait so long to get to general support and wait again after being routed | 8 | Functional |
-U005 | RM | have my RM profile be automatically adjusted based on my customers' feedback | my profile is always up-to-date and I can best serve my selected customers | 7 | Non-functional |
-U006 | Customer | be able to remove myself from the targeted potential customer list | I am not repeatedly contacted for the same reason | 6 | Functional |
+| User Story ID | As a/an | I want to | So that | Pritority (1-10) | Function/Non-functional |
+| ------------- | ------- | --------- | ------- | ---------------- | --------------------- |
+| U001 | RM | be matched with a customer whose profile matches my skills | I can best help them, answer their enquiries | 10 | Functional |
+| U002 | Customer | be matched with an RM has the skills to best help me | I don't have to be transferred and can get help immediately | 10 | Functional |
+| U003 | RM | see my individualised target customer list | connect with those potential customers for selling the company's products | 8 | Functional |
+| U004 | Customer | select from a list of options on what I'm trying to achieve and be correctly routed | I don't need to wait so long to get to general support and wait again after being routed | 8 | Functional |
+| U005 | RM | have my RM profile be automatically adjusted based on my customers' feedback | my profile is always up-to-date and I can best serve my selected customers | 7 | Non-functional |
+| U006 | Customer | be able to remove myself from the targeted potential customer list | I am not repeatedly contacted for the same reason | 6 | Functional |
 
 # Prototyping and Models
-## Use Case Diagram
+## Use Case Diagrams
+
 ## Activity Diagram
 ![Inbound Call Activity Diagram](https://raw.githubusercontent.com/GaryGadget9/ISDM_2020/master/Inbound%20Call%20Activity%20Diagram.png)
 ![Outbound Call Activity Diagram](https://raw.githubusercontent.com/GaryGadget9/ISDM_2020/master/Outbound%20Call%20Activity%20Diagram.png)
 ## Class Diagram
+| Use Case 001 | Being rerouted automatically during busy hours |
+| ------------ | ---------------------------------------------- |
+| Goal | I want to be routed automatically based on what I say to the automatic routing system and what option I choose on the menu |
+| Pre-conditions | Customer is calling in and a human representative is not immediately available to help them |
+| Post-conditions | The customer is satisfied with the information they have, completed their objective for calling in or the RMs have done everything in their capacity to help the customer |
+| Primary Actor | Customer |
+| Secondary Actors | Relationship Manager |
+| Trigger | The customer calls in during busy hours |
+Process Steps
+| Step | Customer | System | Relationship Manager (RM) |
+| ---- | -------- | ------ | ------------------------- |
+| 1 | | Says the welcome message and ask the user to speak their intention from a list | |
+| 2 | Speaks their intention, preferably from the intentions list | | |
+| 3 | | If the message is understood and fits one of the options, go to Step <8> <br />If the message received does not fit any of the options, go to step <4> | |
+4 | | Ask the user to press a number of their phone based on a list of menu options that is read out | |
+5 | Press a number on their device | | |
+6 | | If a number is received, go to Step <8>
+If not after 30 seconds, go to Step <4> | |
+7 | | The user is asked to wait a bit while they are being routed | |
+8 | The user stays on the line and does not hang up until someone is available, go to Step <9> <br />If the user hangs up, go to Step <12> | | |
+9 | | Connect them to the first available appropriate RM, go to Step <11> <br />If no RM is available, go to Step <10> | |
+10 | | | Manually take a customer call in waiting when no other RM is available |
+11 | Communicate their objective with the RM | Connects the customer with the RM | Does their best to fulfill the customer’s objective |
+12 | | Call ends | |
+
 
 
 ## Collaborative Diagram
