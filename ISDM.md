@@ -113,35 +113,9 @@ Design thinking is an essential process for us to learning how to brainstorm and
 | U007 | Customer | not be forced to wait for more than 3 minutes before speaking to a human | I don't waste my time having nothing being accomplished | 6 | Non-Functional |
 
 # Prototyping and Models
-## Use Case Diagrams
-
-### 001: Being rerouted automatically during busy hours
-| Use Case ID 001 | Being rerouted automatically during busy hours |
-| --------------- | ---------------------------------------------- |
-| Goal | I want to be routed automatically based on what I say to the automatic routing system and what option I choose on the menu |
-| Pre-conditions | Customer is calling in and a human representative is not immediately available to help them |
-| Post-conditions | The customer is satisfied with the information they have, completed their objective for calling in or the RMs have done everything in their capacity to help the customer |
-| Primary Actor | Customer |
-| Secondary Actors | Relationship Manager |
-| Trigger | The customer calls in during busy hours |
+## Use Case Diagram
 
 ![Use Case Diagram](https://github.com/GaryGadget9/ISDM_2020/blob/master/Use%20case%20diagram.jpg)
-
-### 001 Process
-| Step | Customer | System | Relationship Manager (RM) |
-| ---- | -------- | ------ | ------------------------- |
-| 1 | | Says the welcome message and ask the user to speak their intention from a list | |
-| 2 | Speaks their intention, preferably from the intentions list | | |
-| 3 | | If the message is understood and fits one of the options, go to Step <8> <br />If the message received does not fit any of the options, go to step <4> | |
-| 4 | | Ask the user to press a number of their phone based on a list of menu options that is read out | |
-| 5 | Press a number on their device | | |
-| 6 | | If a number is received, go to Step <8> <br />If not after 30 seconds, go to Step <4> | |
-| 7 | | The user is asked to wait a bit while they are being routed | |
-| 8 | The user stays on the line and does not hang up until someone is available, go to Step <9> <br />If the user hangs up, go to Step <12> | | |
-| 9 | | Connect them to the first available appropriate RM, go to Step <11> <br />If no RM is available, go to Step <10> | |
-| 10 | | | Manually take a customer call in waiting when no other RM is available |
-| 11 | Communicate their objective with the RM | Connects the customer with the RM | Does their best to fulfill the customer’s objective |
-| 12 | | Call ends | |
 
 
 ## Activity Diagram
