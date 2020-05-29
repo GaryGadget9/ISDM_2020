@@ -125,7 +125,7 @@ Design thinking is an essential process for us to learning how to brainstorm and
 | Secondary Actors | Relationship Manager |
 | Trigger | The customer calls in during busy hours |
 
-![Use Case Diagram] (/images/https://github.com/GaryGadget9/ISDM_2020/blob/master/Use%20case%20diagram.jpg)
+![Use Case Diagram](https://github.com/GaryGadget9/ISDM_2020/blob/master/Use%20case%20diagram.jpg)
 
 ### 001 Process
 | Step | Customer | System | Relationship Manager (RM) |
