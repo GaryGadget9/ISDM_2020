@@ -1,6 +1,6 @@
 # Problem definition
 ## Statement
-
+The in-house call management centre (CMC) system needs to be improved by adjusting the inbound flow rate to each Relationship Manager (RM), matching each customer call to the appropriate RM based on both profiles, and assist RM directly through generating individualised target lists for outbound calls.
 ## Objectives
 - provide assistance to RMs in serving their end-customers (or potential customers) 
 - match RMs and end-customers according to RMs skills (performance and product knowledge) and customers profiles. 
