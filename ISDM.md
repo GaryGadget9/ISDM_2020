@@ -134,16 +134,15 @@ Process Steps
 | 1 | | Says the welcome message and ask the user to speak their intention from a list | |
 | 2 | Speaks their intention, preferably from the intentions list | | |
 | 3 | | If the message is understood and fits one of the options, go to Step <8> <br />If the message received does not fit any of the options, go to step <4> | |
-4 | | Ask the user to press a number of their phone based on a list of menu options that is read out | |
-5 | Press a number on their device | | |
-6 | | If a number is received, go to Step <8>
-If not after 30 seconds, go to Step <4> | |
-7 | | The user is asked to wait a bit while they are being routed | |
-8 | The user stays on the line and does not hang up until someone is available, go to Step <9> <br />If the user hangs up, go to Step <12> | | |
-9 | | Connect them to the first available appropriate RM, go to Step <11> <br />If no RM is available, go to Step <10> | |
-10 | | | Manually take a customer call in waiting when no other RM is available |
-11 | Communicate their objective with the RM | Connects the customer with the RM | Does their best to fulfill the customer’s objective |
-12 | | Call ends | |
+| 4 | | Ask the user to press a number of their phone based on a list of menu options that is read out | |
+| 5 | Press a number on their device | | |
+| 6 | | If a number is received, go to Step <8> <br />If not after 30 seconds, go to Step <4> | |
+| 7 | | The user is asked to wait a bit while they are being routed | |
+| 8 | The user stays on the line and does not hang up until someone is available, go to Step <9> <br />If the user hangs up, go to Step <12> | | |
+| 9 | | Connect them to the first available appropriate RM, go to Step <11> <br />If no RM is available, go to Step <10> | |
+| 10 | | | Manually take a customer call in waiting when no other RM is available |
+| 11 | Communicate their objective with the RM | Connects the customer with the RM | Does their best to fulfill the customer’s objective |
+| 12 | | Call ends | |
 
 
 
