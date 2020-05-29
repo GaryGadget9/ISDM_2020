@@ -114,12 +114,9 @@ Design thinking is an essential process for us to learning how to brainstorm and
 # Prototyping and Models
 ## Use Case Diagrams
 
-## Activity Diagram
-![Inbound Call Activity Diagram](https://raw.githubusercontent.com/GaryGadget9/ISDM_2020/master/Inbound%20Call%20Activity%20Diagram.png)
-![Outbound Call Activity Diagram](https://raw.githubusercontent.com/GaryGadget9/ISDM_2020/master/Outbound%20Call%20Activity%20Diagram.png)
-## Class Diagram
-| Use Case 001 | Being rerouted automatically during busy hours |
-| ------------ | ---------------------------------------------- |
+### 001: Being rerouted automatically during busy hours
+| Use Case ID 001 | Being rerouted automatically during busy hours |
+| --------------- | ---------------------------------------------- |
 | Goal | I want to be routed automatically based on what I say to the automatic routing system and what option I choose on the menu |
 | Pre-conditions | Customer is calling in and a human representative is not immediately available to help them |
 | Post-conditions | The customer is satisfied with the information they have, completed their objective for calling in or the RMs have done everything in their capacity to help the customer |
@@ -128,7 +125,7 @@ Design thinking is an essential process for us to learning how to brainstorm and
 | Trigger | The customer calls in during busy hours |
 
 
-Process Steps
+### 001 Process
 | Step | Customer | System | Relationship Manager (RM) |
 | ---- | -------- | ------ | ------------------------- |
 | 1 | | Says the welcome message and ask the user to speak their intention from a list | |
@@ -145,7 +142,12 @@ Process Steps
 | 12 | | Call ends | |
 
 
+## Activity Diagram
+![Inbound Call Activity Diagram](https://raw.githubusercontent.com/GaryGadget9/ISDM_2020/master/Inbound%20Call%20Activity%20Diagram.png)
+![Outbound Call Activity Diagram](https://raw.githubusercontent.com/GaryGadget9/ISDM_2020/master/Outbound%20Call%20Activity%20Diagram.png)
+## Class Diagram
+
+
 
 ## Collaborative Diagram
 
-# Sprints 
