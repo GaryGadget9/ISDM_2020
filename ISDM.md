@@ -1,3 +1,11 @@
+# Group members
+| Student ID | Name | Group Number |
+| ---------- | ---- | ------------ |
+| 13877271 | Peter Alnas |
+| 13403237 | Tien Long Lam | 
+| 13193394 | Jake Evans |
+| 13655749 | Phan Tuan Linh |
+
 # Problem definition
 ## Statement
 The in-house call management centre (CMC) system needs to be improved by adjusting the inbound flow rate to each Relationship Manager (RM), matching each customer call to the appropriate RM based on both profiles, and assist RM directly through generating individualised target lists for outbound calls.
