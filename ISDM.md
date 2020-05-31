@@ -1,4 +1,9 @@
-# Problem definition
+## Problem definition
+- The relationship managers have specific holiday packages that they know better than others. If customers were to call them regarding different holiday packages, it will be harder to make the sale.
+- Some customers might be caught in a waiting queue, this might make customers disinterest to ask questions, because of this the company might lose some customers.
+- The flow rate of customers might be a burden for relationship mangers. 
+- The efficiency of calls is not maximised, relationship managers are just trying to make sales for all products and not products that they are knowledgeable about. 
+
 ## Statement
 The in-house call management centre (CMC) system needs to be improved by adjusting the inbound flow rate to each Relationship Manager (RM), matching each customer call to the appropriate RM based on both profiles, and assist RM directly through generating individualised target lists for outbound calls.
 ## Objectives
