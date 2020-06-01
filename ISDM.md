@@ -1,3 +1,12 @@
+# Group members
+| Student ID | Name | Group Number |
+| ---------- | ---- | ------------ |
+| 13877271 | Peter Alnas |
+| 13403237 | Tien Long Lam | 
+| 13193394 | Jake Evans |
+| 13655749 | Phan Tuan Linh |
+
+# Problem definition
 ## Problem definition
 - The relationship managers have specific holiday packages that they know better than others. If customers were to call them regarding different holiday packages, it will be harder to make the sale.
 - Some customers might be caught in a waiting queue, this might make customers disinterest to ask questions, because of this the company might lose some customers.
