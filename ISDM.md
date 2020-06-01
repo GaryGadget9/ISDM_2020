@@ -136,9 +136,7 @@ Design thinking is an essential process for us to learning how to brainstorm and
 ![Inbound Call Activity Diagram](https://raw.githubusercontent.com/GaryGadget9/ISDM_2020/master/Inbound%20Call%20Activity%20Diagram.png)
 ![Outbound Call Activity Diagram](https://raw.githubusercontent.com/GaryGadget9/ISDM_2020/master/Outbound%20Call%20Activity%20Diagram.png)
 ## Class Diagram
-
-
-
+![class diagram](https://github.com/GaryGadget9/ISDM_2020/blob/master/class%20digram.PNG)
 ## Collaborative Diagram
 
 ## Benefits of the System 
