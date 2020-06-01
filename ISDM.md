@@ -138,7 +138,7 @@ Design thinking is an essential process for us to learning how to brainstorm and
 ## Class Diagram
 ![class diagram](https://github.com/GaryGadget9/ISDM_2020/blob/master/class%20digram.PNG)
 ## Collaborative Diagram
-
+![collaboration diagram](https://github.com/GaryGadget9/ISDM_2020/blob/master/collaboration%20diagram.PNG)
 ## Benefits of the System 
 
 There are many clear benefits to the development of the information system that supports the new methods of inbound and outbound calling that will be used by the Call management Centre. The main functions of this system are to improve the call flow rate of the call center, by routing calls to the most appropriate Relationship Manager for each customer. Furthermore, it will grade each Relationship Manager, allowing the profiler tool to make skill ratings that will help to make the calls more efficient. The system will have major benefits for all of the stakeholders within the system; customers, relationship managers, and the company itself by making more sales.
