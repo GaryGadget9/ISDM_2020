@@ -152,6 +152,6 @@ While simplistic, the benefits to the company are extremely clear. By serving mo
 Holistically, the implementation of such a system is beneficial for all stakeholders in the system, on several levels. Although the initial implementation may cause an adjustment period, the long term benefits cannot be ignored.
 
 # Video presentation
-![YouTube](https://youtu.be/O5fGqJagKlk)
+[YouTube](https://youtu.be/O5fGqJagKlk)
 
 
