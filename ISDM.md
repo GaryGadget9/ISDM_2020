@@ -1,13 +1,13 @@
 # Group members
 | Student ID | Name | Group Number |
 | ---------- | ---- | ------------ |
-| 13877271 | Peter Alnas |
-| 13403237 | Tien Long Lam | 
-| 13193394 | Jake Evans |
-| 13655749 | Phan Tuan Linh |
+| 13877271 | Peter Alnas | Tut1 05 |
+| 13403237 | Tien Long Lam | Tut1 05 |
+| 13193394 | Jake Evans | Tut1 05 |
+| 13655749 | Phan Tuan Linh | Tut1 05 |
 
 # Problem definition
-## Problem definition
+## Definition
 - The relationship managers have specific holiday packages that they know better than others. If customers were to call them regarding different holiday packages, it will be harder to make the sale.
 - Some customers might be caught in a waiting queue, this might make customers disinterest to ask questions, because of this the company might lose some customers.
 - The flow rate of customers might be a burden for relationship mangers. 
@@ -151,5 +151,7 @@ While simplistic, the benefits to the company are extremely clear. By serving mo
 
 Holistically, the implementation of such a system is beneficial for all stakeholders in the system, on several levels. Although the initial implementation may cause an adjustment period, the long term benefits cannot be ignored.
 
+# Video presentation
+![YouTube](https://youtu.be/O5fGqJagKlk)
 
 
